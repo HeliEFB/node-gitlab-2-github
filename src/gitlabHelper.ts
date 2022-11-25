@@ -38,9 +38,9 @@ export default class GitlabHelper {
         console.log(
           projects[i].id.toString(),
           '\t',
-          projects[i].name,
-          '\t--\t',
-          projects[i]['description']
+          projects[i]["path_with_namespace"],
+          '\t',
+          projects[i].namespace.path + '-' + projects[i].path,
         );
       }
 

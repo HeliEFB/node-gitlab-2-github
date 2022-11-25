@@ -1,0 +1,776 @@
+[
+  {
+    "name": "admin-panel/admin-backend",
+    "gitlabRepoId": 183,
+    "gitlabRepoName": "admin-panel/admin-backend",
+    "githubRepoName": "HeliEFB/admin-panel-admin-backend"
+  },
+  {
+    "name": "admin-panel/ext-library",
+    "gitlabRepoId": 182,
+    "gitlabRepoName": "admin-panel/ext-library",
+    "githubRepoName": "HeliEFB/admin-panel-ext-library"
+  },
+  {
+    "name": "admin-panel/heliefb-api",
+    "gitlabRepoId": 181,
+    "gitlabRepoName": "admin-panel/heliefb-api",
+    "githubRepoName": "HeliEFB/admin-panel-heliefb-api"
+  },
+  {
+    "name": "admin-panel/heliefb-web",
+    "gitlabRepoId": 180,
+    "gitlabRepoName": "admin-panel/heliefb-web",
+    "githubRepoName": "HeliEFB/admin-panel-heliefb-web"
+  },
+  {
+    "name": "backend/ext-library",
+    "gitlabRepoId": 127,
+    "gitlabRepoName": "backend/ext-library",
+    "githubRepoName": "HeliEFB/backend-ext-library"
+  },
+  {
+    "name": "backend/heliefb",
+    "gitlabRepoId": 128,
+    "gitlabRepoName": "backend/heliefb",
+    "githubRepoName": "HeliEFB/backend-heliefb"
+  },
+  {
+    "name": "backend/heliefb-api",
+    "gitlabRepoId": 126,
+    "gitlabRepoName": "backend/heliefb-api",
+    "githubRepoName": "HeliEFB/backend-heliefb-api"
+  },
+  {
+    "name": "backend/heliefb-web",
+    "gitlabRepoId": 125,
+    "gitlabRepoName": "backend/heliefb-web",
+    "githubRepoName": "HeliEFB/backend-heliefb-web"
+  },
+  {
+    "name": "backend/ios-sns-receive-test",
+    "gitlabRepoId": 72,
+    "gitlabRepoName": "backend/ios-sns-receive-test",
+    "githubRepoName": "HeliEFB/backend-ios-sns-receive-test"
+  },
+  {
+    "name": "backend/js-lib-documents-obstacles",
+    "gitlabRepoId": 112,
+    "gitlabRepoName": "backend/js-lib-documents-obstacles",
+    "githubRepoName": "HeliEFB/backend-js-lib-documents-obstacles"
+  },
+  {
+    "name": "backend/location-db",
+    "gitlabRepoId": 175,
+    "gitlabRepoName": "backend/location-db",
+    "githubRepoName": "HeliEFB/locations-location-db"
+  },
+  {
+    "name": "backend/node-heliefb-api-client",
+    "gitlabRepoId": 155,
+    "gitlabRepoName": "backend/node-heliefb-api-client",
+    "githubRepoName": "HeliEFB/backend-node-heliefb-api-client"
+  },
+  {
+    "name": "backend/node-sns-push-test",
+    "gitlabRepoId": 69,
+    "gitlabRepoName": "backend/node-sns-push-test",
+    "githubRepoName": "HeliEFB/backend-node-sns-push-test"
+  },
+  {
+    "name": "backend/php-app-data-aggregation",
+    "gitlabRepoId": 114,
+    "gitlabRepoName": "backend/php-app-data-aggregation",
+    "githubRepoName": "HeliEFB/backend-php-app-data-aggregation"
+  },
+  {
+    "name": "backend/php-app-documents",
+    "gitlabRepoId": 111,
+    "gitlabRepoName": "backend/php-app-documents",
+    "githubRepoName": "HeliEFB/backend-php-app-documents"
+  },
+  {
+    "name": "backend/php-app-notam-importer",
+    "gitlabRepoId": 108,
+    "gitlabRepoName": "backend/php-app-notam-importer",
+    "githubRepoName": "HeliEFB/backend-php-app-notam-importer"
+  },
+  {
+    "name": "backend/php-app-reporting-api",
+    "gitlabRepoId": 110,
+    "gitlabRepoName": "backend/php-app-reporting-api",
+    "githubRepoName": "HeliEFB/backend-php-app-reporting-api"
+  },
+  {
+    "name": "backend/php-libs/airport-metadata",
+    "gitlabRepoId": 96,
+    "gitlabRepoName": "backend/php-libs/airport-metadata",
+    "githubRepoName": "HeliEFB/php-libs-airport-metadata"
+  },
+  {
+    "name": "backend/php-libs/config",
+    "gitlabRepoId": 97,
+    "gitlabRepoName": "backend/php-libs/config",
+    "githubRepoName": "HeliEFB/php-libs-config"
+  },
+  {
+    "name": "backend/php-libs/data",
+    "gitlabRepoId": 76,
+    "gitlabRepoName": "backend/php-libs/data",
+    "githubRepoName": "HeliEFB/php-libs-data"
+  },
+  {
+    "name": "backend/php-libs/dictionary",
+    "gitlabRepoId": 100,
+    "gitlabRepoName": "backend/php-libs/dictionary",
+    "githubRepoName": "HeliEFB/php-libs-dictionary"
+  },
+  {
+    "name": "backend/php-libs/documents-datasource-faa-dcs",
+    "gitlabRepoId": 93,
+    "gitlabRepoName": "backend/php-libs/documents-datasource-faa-dcs",
+    "githubRepoName": "HeliEFB/php-libs-document-datasource-faa-dcs"
+  },
+  {
+    "name": "backend/php-libs/documents-datasource-faa-ddof",
+    "gitlabRepoId": 95,
+    "gitlabRepoName": "backend/php-libs/documents-datasource-faa-ddof",
+    "githubRepoName": "HeliEFB/php-libs-document-datasource-faa-ddof"
+  },
+  {
+    "name": "backend/php-libs/documents-datasource-faa-dof",
+    "gitlabRepoId": 92,
+    "gitlabRepoName": "backend/php-libs/documents-datasource-faa-dof",
+    "githubRepoName": "HeliEFB/php-libs-document-datasource-faa-dof"
+  },
+  {
+    "name": "backend/php-libs/documents-datasource-faa-dtpp",
+    "gitlabRepoId": 94,
+    "gitlabRepoName": "backend/php-libs/documents-datasource-faa-dtpp",
+    "githubRepoName": "HeliEFB/php-libs-documents-datasource-faa-dtpp"
+  },
+  {
+    "name": "backend/php-libs/documents-datasource-faa-ocn",
+    "gitlabRepoId": 91,
+    "gitlabRepoName": "backend/php-libs/documents-datasource-faa-ocn",
+    "githubRepoName": "HeliEFB/php-libs-documents-datasource-faa-ocn"
+  },
+  {
+    "name": "backend/php-libs/documents-datasource-nfdc-nasr",
+    "gitlabRepoId": 99,
+    "gitlabRepoName": "backend/php-libs/documents-datasource-nfdc-nasr",
+    "githubRepoName": "HeliEFB/php-libs-documents-datasource-nfdc-nasr"
+  },
+  {
+    "name": "backend/php-libs/efb",
+    "gitlabRepoId": 75,
+    "gitlabRepoName": "backend/php-libs/efb",
+    "githubRepoName": "HeliEFB/php-libs-efb"
+  },
+  {
+    "name": "backend/php-libs/importer-base",
+    "gitlabRepoId": 102,
+    "gitlabRepoName": "backend/php-libs/importer-base",
+    "githubRepoName": "HeliEFB/php-libs-importer-base"
+  },
+  {
+    "name": "backend/php-libs/notam-base",
+    "gitlabRepoId": 78,
+    "gitlabRepoName": "backend/php-libs/notam-base",
+    "githubRepoName": "HeliEFB/php-libs-notam-base"
+  },
+  {
+    "name": "backend/php-libs/notam-datasource-dfs",
+    "gitlabRepoId": 79,
+    "gitlabRepoName": "backend/php-libs/notam-datasource-dfs",
+    "githubRepoName": "HeliEFB/php-libs-notam-datasource-dfs"
+  },
+  {
+    "name": "backend/php-libs/notam-importer",
+    "gitlabRepoId": 77,
+    "gitlabRepoName": "backend/php-libs/notam-importer",
+    "githubRepoName": "HeliEFB/php-libs-notam-importer"
+  },
+  {
+    "name": "backend/php-libs/sns-messages",
+    "gitlabRepoId": 98,
+    "gitlabRepoName": "backend/php-libs/sns-messages",
+    "githubRepoName": "HeliEFB/php-libs-sns-messages"
+  },
+  {
+    "name": "backend/php-libs/weather-base",
+    "gitlabRepoId": 80,
+    "gitlabRepoName": "backend/php-libs/weather-base",
+    "githubRepoName": "HeliEFB/php-libs-weather-base"
+  },
+  {
+    "name": "backend/php-libs/weather-datasource-dtn",
+    "gitlabRepoId": 89,
+    "gitlabRepoName": "backend/php-libs/weather-datasource-dtn",
+    "githubRepoName": "HeliEFB/php-libs-weather-datasource-dtn"
+  },
+  {
+    "name": "backend/php-libs/weather-datasource-dwd",
+    "gitlabRepoId": 81,
+    "gitlabRepoName": "backend/php-libs/weather-datasource-dwd",
+    "githubRepoName": "HeliEFB/php-libs-weather-datasource-dwd"
+  },
+  {
+    "name": "backend/php-libs/weather-datasource-noaa",
+    "gitlabRepoId": 85,
+    "gitlabRepoName": "backend/php-libs/weather-datasource-noaa",
+    "githubRepoName": "HeliEFB/php-libs-weather-datasource-noaa"
+  },
+  {
+    "name": "backend/php-libs/weather-importer",
+    "gitlabRepoId": 84,
+    "gitlabRepoName": "backend/php-libs/weather-importer",
+    "githubRepoName": "HeliEFB/php-libs-weather-importer"
+  },
+  {
+    "name": "backend/php-libs/weather-messagetype-dtn",
+    "gitlabRepoId": 90,
+    "gitlabRepoName": "backend/php-libs/weather-messagetype-dtn",
+    "githubRepoName": "HeliEFB/php-libs-weather-messagetype-dtn"
+  },
+  {
+    "name": "backend/php-libs/weather-messagetype-metar",
+    "gitlabRepoId": 86,
+    "gitlabRepoName": "backend/php-libs/weather-messagetype-metar",
+    "githubRepoName": "HeliEFB/php-libs-weather-messagetype-metar"
+  },
+  {
+    "name": "backend/php-libs/weather-messagetype-sigmet",
+    "gitlabRepoId": 101,
+    "gitlabRepoName": "backend/php-libs/weather-messagetype-sigmet",
+    "githubRepoName": "HeliEFB/php-libs-weather-messagetype-sigmet"
+  },
+  {
+    "name": "backend/php-libs/weather-messagetype-taf",
+    "gitlabRepoId": 87,
+    "gitlabRepoName": "backend/php-libs/weather-messagetype-taf",
+    "githubRepoName": "HeliEFB/php-libs-weather-messagetype-taf"
+  },
+  {
+    "name": "backend/php-libs/weather-storage",
+    "gitlabRepoId": 82,
+    "gitlabRepoName": "backend/php-libs/weather-storage",
+    "githubRepoName": "HeliEFB/php-libs-weather-storage"
+  },
+  {
+    "name": "backend/php-libs/weather-storage-s3",
+    "gitlabRepoId": 83,
+    "gitlabRepoName": "backend/php-libs/weather-storage-s3",
+    "githubRepoName": "HeliEFB/php-libs-weather-storage-s3"
+  },
+  {
+    "name": "backend/php-libs/weather-visibilitycodes",
+    "gitlabRepoId": 88,
+    "gitlabRepoName": "backend/php-libs/weather-visibilitycodes",
+    "githubRepoName": "HeliEFB/php-libs-weather-visibilitycodes"
+  },
+  {
+    "name": "backend/php-package-catalog",
+    "gitlabRepoId": 107,
+    "gitlabRepoName": "backend/php-package-catalog",
+    "githubRepoName": "HeliEFB/backend-php-package-catalog"
+  },
+  {
+    "name": "backend/php-weather-importer",
+    "gitlabRepoId": 115,
+    "gitlabRepoName": "backend/php-weather-importer",
+    "githubRepoName": "HeliEFB/backend-php-weather-importer"
+  },
+  {
+    "name": "backend/reporting",
+    "gitlabRepoId": 68,
+    "gitlabRepoName": "backend/reporting",
+    "githubRepoName": "HeliEFB/backend-reporting"
+  },
+  {
+    "name": "backend/tank-fill-macro",
+    "gitlabRepoId": 71,
+    "gitlabRepoName": "backend/tank-fill-macro",
+    "githubRepoName": "HeliEFB/tank-fill-macro"
+  },
+  {
+    "name": "backend/weather",
+    "gitlabRepoId": 104,
+    "gitlabRepoName": "backend/weather",
+    "githubRepoName": "HeliEFB/backend-weather"
+  },
+  {
+    "name": "backend/weather-server",
+    "gitlabRepoId": 106,
+    "gitlabRepoName": "backend/weather-server",
+    "githubRepoName": "HeliEFB/backend-weather-server"
+  },
+  {
+    "name": "backend/weather-service",
+    "gitlabRepoId": 152,
+    "gitlabRepoName": "backend/weather-service",
+    "githubRepoName": "HeliEFB/backend-weather-service"
+  },
+  {
+    "name": "customer/adac/airports-cleanup",
+    "gitlabRepoId": 178,
+    "gitlabRepoName": "customer/adac/airports-cleanup",
+    "githubRepoName": "HeliEFB/locations-airports-cleanup"
+  },
+  {
+    "name": "customer/adac/efb-geodata-update",
+    "gitlabRepoId": 148,
+    "gitlabRepoName": "customer/adac/efb-geodata-update",
+    "githubRepoName": "HeliEFB/locations-geodata-update"
+  },
+  {
+    "name": "customer/adac/fuel-stations",
+    "gitlabRepoId": 176,
+    "gitlabRepoName": "customer/adac/fuel-stations",
+    "githubRepoName": "HeliEFB/locations-fuel-stations"
+  },
+  {
+    "name": "customer/adac/location-importer",
+    "gitlabRepoId": 147,
+    "gitlabRepoName": "customer/adac/location-importer",
+    "githubRepoName": "HeliEFB/locations-importer"
+  },
+  {
+    "name": "customer/adac/media-zipper",
+    "gitlabRepoId": 28,
+    "gitlabRepoName": "customer/adac/media-zipper",
+    "githubRepoName": "HeliEFB/ops-media-zipper"
+  },
+  {
+    "name": "customer/adac/openaip-airports-converter",
+    "gitlabRepoId": 153,
+    "gitlabRepoName": "customer/adac/openaip-airports-converter",
+    "githubRepoName": "HeliEFB/locations-openaip-airports-converter"
+  },
+  {
+    "name": "customer/amc/users-csv-export",
+    "gitlabRepoId": 157,
+    "gitlabRepoName": "customer/amc/users-csv-export",
+    "githubRepoName": "HeliEFB/ops-users-csv-export"
+  },
+  {
+    "name": "customer/expo/caltrans-heliplates",
+    "gitlabRepoId": 150,
+    "gitlabRepoName": "customer/expo/caltrans-heliplates",
+    "githubRepoName": "HeliEFB/expo-caltrans-heliplates"
+  },
+  {
+    "name": "customer/expo/expo-vm",
+    "gitlabRepoId": 172,
+    "gitlabRepoName": "customer/expo/expo-vm",
+    "githubRepoName": "HeliEFB/expo-vm"
+  },
+  {
+    "name": "doc/api",
+    "gitlabRepoId": 23,
+    "gitlabRepoName": "doc/api",
+    "githubRepoName": "HeliEFB/doc-api"
+  },
+  {
+    "name": "doc/risk-assessment",
+    "gitlabRepoId": 134,
+    "gitlabRepoName": "doc/risk-assessment",
+    "githubRepoName": "HeliEFB/doc-risk-assessment"
+  },
+  {
+    "name": "doc/user-guide",
+    "gitlabRepoId": 184,
+    "gitlabRepoName": "doc/user-guide",
+    "githubRepoName": "HeliEFB/doc-user-guide"
+  },
+  {
+    "name": "ios/app",
+    "gitlabRepoId": 60,
+    "gitlabRepoName": "ios/app",
+    "githubRepoName": "HeliEFB/ios-app"
+  },
+  {
+    "name": "ios/certificates",
+    "gitlabRepoId": 51,
+    "gitlabRepoName": "ios/certificates",
+    "githubRepoName": "HeliEFB/ios-certificates"
+  },
+  {
+    "name": "ios/cordova-plugin-helipdfkit",
+    "gitlabRepoId": 146,
+    "gitlabRepoName": "ios/cordova-plugin-helipdfkit",
+    "githubRepoName": "HeliEFB/ios-cordova-plugin-helipdfkit"
+  },
+  {
+    "name": "ios/core-data-helpers",
+    "gitlabRepoId": 52,
+    "gitlabRepoName": "ios/core-data-helpers",
+    "githubRepoName": "HeliEFB/ios-core-data-helpers"
+  },
+  {
+    "name": "ios/core-data-store",
+    "gitlabRepoId": 141,
+    "gitlabRepoName": "ios/core-data-store",
+    "githubRepoName": "HeliEFB/ios-core-data-store"
+  },
+  {
+    "name": "ios/crypto",
+    "gitlabRepoId": 53,
+    "gitlabRepoName": "ios/crypto",
+    "githubRepoName": "HeliEFB/ios-crypto"
+  },
+  {
+    "name": "ios/EFB",
+    "gitlabRepoId": 22,
+    "gitlabRepoName": "ios/EFB",
+    "githubRepoName": "HeliEFB/ios-efb"
+  },
+  {
+    "name": "ios/efb-cordova-app",
+    "gitlabRepoId": 145,
+    "gitlabRepoName": "ios/efb-cordova-app",
+    "githubRepoName": "HeliEFB/ios-efb-cordova-app"
+  },
+  {
+    "name": "ios/EFBAPIClient",
+    "gitlabRepoId": 13,
+    "gitlabRepoName": "ios/EFBAPIClient",
+    "githubRepoName": "HeliEFB/ios-efb-api-client"
+  },
+  {
+    "name": "ios/EFBConfiguration",
+    "gitlabRepoId": 12,
+    "gitlabRepoName": "ios/EFBConfiguration",
+    "githubRepoName": "HeliEFB/ios-efb-configuration"
+  },
+  {
+    "name": "ios/EFBForms",
+    "gitlabRepoId": 14,
+    "gitlabRepoName": "ios/EFBForms",
+    "githubRepoName": "HeliEFB/ios-efb-forms"
+  },
+  {
+    "name": "ios/EFBGraph",
+    "gitlabRepoId": 11,
+    "gitlabRepoName": "ios/EFBGraph",
+    "githubRepoName": "HeliEFB/ios-efb-graph"
+  },
+  {
+    "name": "ios/EFBUnitConverter",
+    "gitlabRepoId": 10,
+    "gitlabRepoName": "ios/EFBUnitConverter",
+    "githubRepoName": "HeliEFB/ios-efb-unit-converter"
+  },
+  {
+    "name": "ios/EFBWeatherService",
+    "gitlabRepoId": 15,
+    "gitlabRepoName": "ios/EFBWeatherService",
+    "githubRepoName": "HeliEFB/ios-efb-weather-service"
+  },
+  {
+    "name": "ios/flightlog",
+    "gitlabRepoId": 144,
+    "gitlabRepoName": "ios/flightlog",
+    "githubRepoName": "HeliEFB/ios-flightlog"
+  },
+  {
+    "name": "ios/frat",
+    "gitlabRepoId": 20,
+    "gitlabRepoName": "ios/frat",
+    "githubRepoName": "HeliEFB/ios-frat"
+  },
+  {
+    "name": "ios/frat-cordova-app",
+    "gitlabRepoId": 109,
+    "gitlabRepoName": "ios/frat-cordova-app",
+    "githubRepoName": "HeliEFB/ios-frat-cordova-app"
+  },
+  {
+    "name": "ios/helipdfkit",
+    "gitlabRepoId": 135,
+    "gitlabRepoName": "ios/helipdfkit",
+    "githubRepoName": "HeliEFB/ios-helipdfkit"
+  },
+  {
+    "name": "ios/ios-deploy",
+    "gitlabRepoId": 167,
+    "gitlabRepoName": "ios/ios-deploy",
+    "githubRepoName": "HeliEFB/ios-deploy"
+  },
+  {
+    "name": "ios/ios-sns-receive-test",
+    "gitlabRepoId": 17,
+    "gitlabRepoName": "ios/ios-sns-receive-test",
+    "githubRepoName": "HeliEFB/ios-sns-receive-test"
+  },
+  {
+    "name": "ios/layoutable",
+    "gitlabRepoId": 54,
+    "gitlabRepoName": "ios/layoutable",
+    "githubRepoName": "HeliEFB/ios-layoutable"
+  },
+  {
+    "name": "ios/models",
+    "gitlabRepoId": 139,
+    "gitlabRepoName": "ios/models",
+    "githubRepoName": "HeliEFB/ios-models"
+  },
+  {
+    "name": "ios/pod-template",
+    "gitlabRepoId": 8,
+    "gitlabRepoName": "ios/pod-template",
+    "githubRepoName": "HeliEFB/ios-pod-template"
+  },
+  {
+    "name": "ios/pods",
+    "gitlabRepoId": 9,
+    "gitlabRepoName": "ios/pods",
+    "githubRepoName": "HeliEFB/ios-pods"
+  },
+  {
+    "name": "ios/preflight-cordova-app",
+    "gitlabRepoId": 21,
+    "gitlabRepoName": "ios/preflight-cordova-app",
+    "githubRepoName": "HeliEFB/ios-preflight-cordova-app"
+  },
+  {
+    "name": "ios/proj",
+    "gitlabRepoId": 187,
+    "gitlabRepoName": "ios/proj",
+    "githubRepoName": "HeliEFB/proj"
+  },
+  {
+    "name": "ios/safe",
+    "gitlabRepoId": 55,
+    "gitlabRepoName": "ios/safe",
+    "githubRepoName": "HeliEFB/ios-safe"
+  },
+  {
+    "name": "ios/scrollable-stack-view-controller",
+    "gitlabRepoId": 56,
+    "gitlabRepoName": "ios/scrollable-stack-view-controller",
+    "githubRepoName": "HeliEFB/ios-scrollable-stack-view-controller"
+  },
+  {
+    "name": "ios/segmented-control",
+    "gitlabRepoId": 57,
+    "gitlabRepoName": "ios/segmented-control",
+    "githubRepoName": "HeliEFB/ios-segmented-control"
+  },
+  {
+    "name": "ios/segmented-view-controller",
+    "gitlabRepoId": 58,
+    "gitlabRepoName": "ios/segmented-view-controller",
+    "githubRepoName": "HeliEFB/ios-segmented-view-controller"
+  },
+  {
+    "name": "ios/store",
+    "gitlabRepoId": 140,
+    "gitlabRepoName": "ios/store",
+    "githubRepoName": "HeliEFB/ios-store"
+  },
+  {
+    "name": "ios/swift-weather-lib",
+    "gitlabRepoId": 16,
+    "gitlabRepoName": "ios/swift-weather-lib",
+    "githubRepoName": "HeliEFB/ios-swift-weather-lib"
+  },
+  {
+    "name": "ios/units",
+    "gitlabRepoId": 59,
+    "gitlabRepoName": "ios/units",
+    "githubRepoName": "HeliEFB/ios-units"
+  },
+  {
+    "name": "ios/views",
+    "gitlabRepoId": 138,
+    "gitlabRepoName": "ios/views",
+    "githubRepoName": "HeliEFB/ios-views"
+  },
+  {
+    "name": "ios/weather-client-sdk",
+    "gitlabRepoId": 19,
+    "gitlabRepoName": "ios/weather-client-sdk",
+    "githubRepoName": "HeliEFB/ios-weather-client-sdk"
+  },
+  {
+    "name": "maps/geojson-reduce",
+    "gitlabRepoId": 166,
+    "gitlabRepoName": "maps/geojson-reduce",
+    "githubRepoName": "HeliEFB/maps-geojson-reduce"
+  },
+  {
+    "name": "maps/mapFAA",
+    "gitlabRepoId": 3,
+    "gitlabRepoName": "maps/mapFAA",
+    "githubRepoName": "HeliEFB/maps-mapFAA"
+  },
+  {
+    "name": "maps/maps",
+    "gitlabRepoId": 5,
+    "gitlabRepoName": "maps/maps",
+    "githubRepoName": "HeliEFB/maps-maps"
+  },
+  {
+    "name": "maps/maps_cut",
+    "gitlabRepoId": 4,
+    "gitlabRepoName": "maps/maps_cut",
+    "githubRepoName": "HeliEFB/maps-maps-cut"
+  },
+  {
+    "name": "maps/maps_ecs",
+    "gitlabRepoId": 6,
+    "gitlabRepoName": "maps/maps_ecs",
+    "githubRepoName": "HeliEFB/maps-maps-ecs"
+  },
+  {
+    "name": "maps/maps_rgb",
+    "gitlabRepoId": 7,
+    "gitlabRepoName": "maps/maps_rgb",
+    "githubRepoName": "HeliEFB/maps-maps-rgb"
+  },
+  {
+    "name": "maps/maps_with_tilemill",
+    "gitlabRepoId": 2,
+    "gitlabRepoName": "maps/maps_with_tilemill",
+    "githubRepoName": "HeliEFB/maps-faa-maps-with-tilemill"
+  },
+  {
+    "name": "maps/openflightmap-generator",
+    "gitlabRepoId": 165,
+    "gitlabRepoName": "maps/openflightmap-generator",
+    "githubRepoName": "HeliEFB/maps-openflightmap-generator"
+  },
+  {
+    "name": "ops/administration",
+    "gitlabRepoId": 133,
+    "gitlabRepoName": "ops/administration",
+    "githubRepoName": "HeliEFB/administration"
+  },
+  {
+    "name": "ops/alpine-bash",
+    "gitlabRepoId": 63,
+    "gitlabRepoName": "ops/alpine-bash",
+    "githubRepoName": "HeliEFB/ops-alpine-bash"
+  },
+  {
+    "name": "ops/alpine-bash-make",
+    "gitlabRepoId": 66,
+    "gitlabRepoName": "ops/alpine-bash-make",
+    "githubRepoName": "HeliEFB/ops-alpine-bash-make"
+  },
+  {
+    "name": "ops/checkout-form-generator",
+    "gitlabRepoId": 156,
+    "gitlabRepoName": "ops/checkout-form-generator",
+    "githubRepoName": "HeliEFB/checkout-form-generator"
+  },
+  {
+    "name": "ops/csr-generator",
+    "gitlabRepoId": 130,
+    "gitlabRepoName": "ops/csr-generator",
+    "githubRepoName": "HeliEFB/ops-csr-generator"
+  },
+  {
+    "name": "ops/homepage",
+    "gitlabRepoId": 26,
+    "gitlabRepoName": "ops/homepage",
+    "githubRepoName": "HeliEFB/homepage"
+  },
+  {
+    "name": "ops/incident-response-plans",
+    "gitlabRepoId": 151,
+    "gitlabRepoName": "ops/incident-response-plans",
+    "githubRepoName": "HeliEFB/ops-incident-response-plans"
+  },
+  {
+    "name": "ops/schneider-weather-proxy",
+    "gitlabRepoId": 113,
+    "gitlabRepoName": "ops/schneider-weather-proxy",
+    "githubRepoName": "HeliEFB/weather-schneider-weather-proxy"
+  },
+  {
+    "name": "ops/server-backup",
+    "gitlabRepoId": 67,
+    "gitlabRepoName": "ops/server-backup",
+    "githubRepoName": "HeliEFB/ops-server-backup"
+  },
+  {
+    "name": "ops/uploads",
+    "gitlabRepoId": 29,
+    "gitlabRepoName": "ops/uploads",
+    "githubRepoName": "HeliEFB/ops-uploads"
+  },
+  {
+    "name": "r.spirka/app",
+    "gitlabRepoId": 65,
+    "gitlabRepoName": "r.spirka/app",
+    "githubRepoName": "riks/app"
+  },
+  {
+    "name": "r.spirka/archive",
+    "gitlabRepoId": 39,
+    "gitlabRepoName": "r.spirka/archive",
+    "githubRepoName": "riks/archive"
+  },
+  {
+    "name": "r.spirka/cordova-plugin-helinotifications",
+    "gitlabRepoId": 163,
+    "gitlabRepoName": "r.spirka/cordova-plugin-helinotifications",
+    "githubRepoName": "riks/cordova-plugin-helinotifications"
+  },
+  {
+    "name": "r.spirka/dev-stack",
+    "gitlabRepoId": 31,
+    "gitlabRepoName": "r.spirka/dev-stack",
+    "githubRepoName": "riks/dev-stack"
+  },
+  {
+    "name": "r.spirka/elevation-service",
+    "gitlabRepoId": 27,
+    "gitlabRepoName": "r.spirka/elevation-service",
+    "githubRepoName": "riks/elevation-service"
+  },
+  {
+    "name": "r.spirka/heliefb-api-demo",
+    "gitlabRepoId": 169,
+    "gitlabRepoName": "r.spirka/heliefb-api-demo",
+    "githubRepoName": "riks/heliefb-api-demo"
+  },
+  {
+    "name": "r.spirka/heliefb-vm",
+    "gitlabRepoId": 34,
+    "gitlabRepoName": "r.spirka/heliefb-vm",
+    "githubRepoName": "riks/heliefb-vm"
+  },
+  {
+    "name": "r.spirka/jira2gitlab",
+    "gitlabRepoId": 132,
+    "gitlabRepoName": "r.spirka/jira2gitlab",
+    "githubRepoName": "riks/jira2gitlab"
+  },
+  {
+    "name": "r.spirka/obstacles",
+    "gitlabRepoId": 30,
+    "gitlabRepoName": "r.spirka/obstacles",
+    "githubRepoName": "riks/obstacles"
+  },
+  {
+    "name": "r.spirka/osm2geodb",
+    "gitlabRepoId": 32,
+    "gitlabRepoName": "r.spirka/osm2geodb",
+    "githubRepoName": "riks/osm2geodb"
+  },
+  {
+    "name": "r.spirka/pushnotificationtest-cordova",
+    "gitlabRepoId": 164,
+    "gitlabRepoName": "r.spirka/pushnotificationtest-cordova",
+    "githubRepoName": "riks/pushnotificationtest-cordova"
+  },
+  {
+    "name": "r.spirka/users-update",
+    "gitlabRepoId": 171,
+    "gitlabRepoName": "r.spirka/users-update",
+    "githubRepoName": "riks/users-update"
+  }
+]
